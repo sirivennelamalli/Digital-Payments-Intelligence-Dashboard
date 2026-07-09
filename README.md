@@ -1,5 +1,4 @@
 # Digital-Payments-Intelligence-Dashboard
-# Digital Payments Intelligence Dashboard
 
 ## Project Overview
 
